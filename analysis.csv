@@ -1,0 +1,196 @@
+Number,Type,Name,WP_Type,sampleID,pH,Conductivity,Temperature,Turbidity,FCR,CFU,Ammonia,Fluoride,Hardness,Iron,Nitrate,Nitrite ,Phosphte ,Sulphate,Latitude,Longitude,Altitude
+1,HCF,Addis Betechristian Health Post,Protected spring,A6851,6.17,81,18.4,6.46,0,69,,,,,,,,,11.7491051,37.9850246,2363
+2,HCF,Aringo Health Post,Protected dug well with hand pump,A6919,6.8,172,21.3,6.66,0,101,,,,,,,,,11.8702037,37.9317361,2423.6
+3,HCF,Awuzet Health Post,Protected dug well with hand pump,A6873,6.7,190,15.6,10.3,0,101,,,,,,,,,11.7714433,38.1376427,2887.4
+4,HCF,Buro Health Post,Protected dug well with hand pump,A6846,7.16,296,20.7,77.8,0,0,,,,,,,,,11.9177575,38.0222461,2370.9
+5,HCF,Buro Health Station,Protected spring,A6452,6.54,110,19.1,83.6,0,101,,,,,,,,,11.9190813,38.0213864,2359.1
+6,HCF,Embayko Health Post,Protected dug well with hand pump,A6879,5.78,80,23.7,24.1,0,21,,,,,,,,,11.8146869,37.9012834,2104.9
+7,HCF,Gassay Health Station,Mechanized borehole,A6996,7.77,248,15.4,0.19,0,0,,,,,,,,,11.8001894,38.1466944,2781.6
+8,HCF,Hiruy Abaregay Health Post,Protected dug well with hand pump,A6921,7.12,202,19,39.7,0,18,,,,,,,,,11.8456641,38.0553595,2604.2
+9,HCF,Koley Health Post,Protected spring,A6864,5.82,127,21.4,18.2,0,101,,,,,,,,,11.9098335,37.9836363,2370.3
+10,HCF,Mahidere mariam Health Station,Protected spring,A6439,5.94,188,20,2.32,0,70,,,,,,,,,11.7120185,37.9231442,2338.2
+11,HCF,Maynet Health Post,Protected dug well with hand pump,A6315,7.92,87,15.2,13.1,0,101,,,,,,,,,11.746157,38.0876904,2834.6
+12,HCF,Teraroch Health Post,Protected dug well with hand pump,A6862,6.34,218,21.1,25.4,0,101,,,,,,,,,11.9147193,38.0107629,2373.4
+13,HCF,Tsegur Health Post,Protected dug well with hand pump,A6910,7.15,158,22,0.06,0,32,,,,,,,,,11.8771029,37.983799,2589.2
+14,HCF,Wewa magera Health Post,Protected dug well with hand pump,A6916,6.23,68,17.5,0.39,0,0,,,,,,,,,11.8586148,38.0967853,2598.2
+15,HCF,Workien Health Post,Protected dug well with hand pump,A6972,7.2,307,17.4,6.17,0,0,,,,,,,,,11.7999398,37.9843325,2405.1
+16,School,Arebayitu Ensessa Primary School Farta,Protected dug well with hand pump,A6830,6.68,239,23.6,9.8,0,101,,,,,,,,,11.8008257,37.8960851,2038
+17,School,Aringo Primary School,Protected dug well with hand pump,A6822,6.51,286,18.9,5.41,0,44,,,,,,,,,11.8693757,37.9333541,2454
+18,School,Askuma Primary School,Protected dug well with hand pump,A6871,6.59,254,16.2,20.9,0,58,0.08,0,115,0.24,3.42,0,0.35,5,11.7797429,38.0311151,2594
+19,School,Ayer Primary School,Protected dug well with hand pump,A6970,7.14,229,20.3,68,0,10,,,,,,,,,11.7804603,37.9937927,2129.4
+20,School,Ayeva Primary School,Protected dug well with hand pump,A6813,7.03,273,18.8,62.5,0,101,,,,,,,,,11.9579013,37.9785913,2175.5
+21,School,Aylachush Primary School,Protected spring,A6345,6.74,144,18.6,1.97,0,2,0,0,45,0,3.16,0.004,0.58,1,11.7216882,38.0311564,2563
+22,School,Bahirmeda Primary School,Protected dug well with hand pump,A6458,7.17,202,18.5,12.8,0,24,0,0,105,0.04,4.18,0.008,0.19,3,11.835871,38.1325196,2726.1
+23,School,Boda Primary School,Unprotected spring,A6394,5.94,147,20.4,43.8,0,62,0.01,0.09,55,0.01,2.98,0.009,0.58,2,11.8051904,37.9535591,2256.9
+24,School,Buro Primary School,Protected dug well with hand pump,A6889,6.84,221,20.3,89.8,0,101,,,,,,,,,11.9412514,38.0241204,2268.3
+25,School,Debretabor Eyesus Primary School,Protected dug well with hand pump,A6456,7.28,165,16.7,40.7,0,26,,,,,,,,,11.8252786,38.0076635,2531.6
+26,School,Derehina Primary School,Protected dug well with hand pump,A6823,7.52,163,18.5,35.9,0,101,0,0,80,0.01,0.82,0.004,0.09,0,11.8865604,38.1046073,2493.9
+27,School,Embayko Primary School,Unprotected spring,A6879,5.78,80,23.7,24.1,0,21,,,,,,,,,11.8146869,37.9012834,2104.9
+28,School,Fasil Minch Primary School,Protected dug well with hand pump,A6395,7.05,117,16.6,39,0,4,,,,,,,,,11.8143073,38.1139492,2725.1
+29,School,Ferti Secondary School,Mechanized borehole,A6858,8.32,490,16.9,0.64,0,0,,,,,,,,,11.8680245,38.0140257,2648.7
+30,School,Gassay Secondary School,Mechanized borehole,A6983,7.7,249,16.4,0.04,0,0,,,,,,,,,11.7985086,38.1454508,2783.7
+31,School,Genamechawecha Primary School,Protected dug well with hand pump,A6424,7.5,384,20.3,23,0,3,,,,,,,,,11.7636056,37.9535738,2032.3
+32,School,Giribie Primary School,Protected spring,A6881,6.18,154,19.6,10.1,0,101,,,,,,,,,11.833238,37.952853,
+33,School,Guasat Primary School,Protected dug well with hand pump,A6325,7.68,366,15.5,3.62,0,5,,,,,,,,,11.7317457,38.1054927,2661.8
+34,School,Gurir Primary School,Protected dug well with hand pump,A6422,7.08,154,16.3,99.4,0,42,,,,,,,,,11.7316534,38.0038919,2489.4
+35,School,Hiruy Abaregay Primary School,Protected dug well with hand pump,A6433,6.95,171,19.4,60,0,10,,,,,,,,,11.8455744,38.0554894,2634.6
+36,School,Jebel Primary School,Protected dug well with hand pump,A6420,6.91,324,20.6,1.87,0,2,,,,,,,,,11.833671,38.0255598,2619.4
+37,School,Kidanemihret Primary School,Protected dug well with hand pump,A6905,6.61,212,22.6,0.06,0,46,,,,,,,,,11.8872724,37.9840121,2585.7
+38,School,Kisnat Primary School,Protected dug well with hand pump,A6316,7.62,191,13.9,6.67,0,1,,,,,,,,,11.789877,38.0888475,2789
+39,School,Koley Primary School,Protected dug well with hand pump,A6863,6.42,223,20.5,38.9,0,0,,,,,,,,,11.9022533,37.983735,2361.6
+40,School,Limitu mesk Primary School,Protected dug well with hand pump,A6305,7.61,373,15.7,4.37,0,4,,,,,,,,,11.746728,38.0881498,2844.5
+41,School,Mahidere Mariam Primary School,Piped water supply,A6872,7.08,165,15.4,2.05,0,0,,,,,,,,,11.7138488,37.9218021,2337.3
+42,School,Mahidere Mariam Secondary School,Protected dug well with hand pump,A6441,7.05,386,17.6,35.7,0,0,,,,,,,,,11.7174594,37.9232132,2313.7
+43,School,Maynet Primary School,Protected dug well with hand pump,A6402,7.38,207,18.5,1.35,0,13,,,,,,,,,11.7623171,38.1012098,2764.9
+44,School,Medeb Primary School,Protected dug well with hand pump,A6886,6.63,243,19.5,108.6,0,101,,,,,,,,,11.9746695,38.025857,2199.1
+45,School,Melohamusit Primary School,Protected dug well with hand pump,A6844,7.61,376,19.3,8.21,0,101,,,,,,,,,11.9898567,38.0083491,1961.8
+46,School,Midrkwa Primary School,Protected dug well with hand pump,A6403,7.08,213,16.3,3.72,0,7,,,,,,,,,11.7745976,38.1384512,2850.9
+47,School,Qirkos Primary School,Protected dug well with hand pump,A6850,6.56,156,21.1,4.33,0,2,,,,,,,,,11.9014267,38.0268633,2531.9
+48,School,Shiwenze Primary School,Protected dug well with hand pump,A6438,6.93,211,20.1,20.3,0,18,0.01,0,85,0.01,3.26,0.004,0.3,1,11.7152071,37.8991239,2117.6
+49,School,Soras Primary School,Protected spring,A6802,6.79,88,15.1,2.82,0,3,,,,,,,,,11.7448368,38.14263,3142.2
+50,School,Tinkie Primary School,Protected spring,A6989,8.11,64,11.2,5.49,0,1,,,,,,,,,11.7214051,38.1699449,3430.7
+51,School,Tsegur Primary School,Protected dug well with hand pump,A6856,6.84,191,16.2,0,0,9,,,,,,,,,11.8693255,37.9781598,2623.7
+52,School,Weeken Primary School,Protected dug well with hand pump,A6401,6.55,217,18.7,9.13,0,79,,,,,,,,,11.8005457,37.9764879,2346.5
+53,School,Wub Amba Primary School ,Protected dug well with hand pump,A6857,6.85,294,21,27.4,0,101,,,,,,,,,11.8866427,38.0161615,2578.8
+54,School,Wukara Primary School,Protected dug well with hand pump,A6455,6.47,173,19.9,12.9,0,101,0,0,45,0,3.6,0.005,4,2,11.8101821,38.0087987,2340.5
+55,School,Zawira Primary School,Protected dug well with hand pump,A6968,7.34,405,19.6,1.46,0,0,,,,,,,,,11.7810106,37.9744263,2122.2
+56,EA,Heruy Aba Aregay,Protected dug well with hand pump,A6904,6.46,270,27,55.4,0,8,,,,,,,,,11.8287702,38.0632152,2585.8
+57,EA,Heruy Aba Aregay,Protected dug well with hand pump,A6437,6.41,217,20.1,12.43,0,,,,,,,,,,11.8311632,38.0628019,2594.2
+58,EA,Heruy Aba Aregay,Protected spring,A6435,6.05,119,20.1,32.9,0,15,,,,,,,,,11.8341419,38.0619861,2610.4
+59,EA,Heruy Aba Aregay,Protected dug well with hand pump,A6902,7.04,190,19.9,0.56,0,2,,,,,,,,,11.83324,38.0570014,2606
+60,EA,Heruy Aba Aregay,Protected dug well with hand pump,A6414,6.52,132,25.5,19.1,0,1,,,,,,,,,11.8349964,38.0520831,2633
+61,EA,Heruy Aba Aregay,Unprotected spring,A6901,6.39,78,20.9,63,0,21,,,,,,,,,11.8321056,38.0548745,2585.4
+62,EA,Heruy Aba Aregay,Protected dug well with hand pump,A6440,6.13,115,21.2,,0,9,,,,,,,,,11.8372006,38.0537625,2649.6
+63,EA,Heruy Aba Aregay,Protected spring,A6927,6.47,96,19.3,46.8,0,,,,,,,,,,11.8405832,38.0602707,2606.9
+64,EA,Segur Adeko,Unprotected spring,A6925,6.3,94,20.4,27.4,0,4,,,,,,,,,11.8756639,37.9742721,2632.3
+65,EA,Segur Adeko,Unprotected spring,A6926,6.52,77,21.2,98.2,0,101,,,,,,,,,11.8804603,37.9778123,2634.7
+66,EA,Segur Adeko,Protected dug well with hand pump,A6415,6.67,198,20.2,11,0,25,0.02,0.03,85,0.03,,0.03,0.36,2,11.8796717,37.971285,2672.7
+67,EA,Segur Adeko,Unprotected spring,A6924,6.55,142,20.1,40.1,0,11,,,,,,,,,11.8896774,37.9785543,2512.8
+68,EA,Segur Adeko,Protected spring,A6957,6.2,196,20.1,22.7,0,9,0,0.15,60,0.01,,0.009,0.39,1,11.8903262,37.9721016,2462.9
+69,EA,Segur Adeko,Unprotected spring,A6982,6.19,181,21.9,12.4,0,23,,,,,,,,,11.8953863,37.9730545,2386.4
+70,EA,Wewa Magera,Protected dug well with hand pump,A6912,7.19,275,20.3,14.4,0,101,0.01,0.13,100,0.02,4.24,0.017,0.26,5,11.8740691,38.0974732,2488.8
+71,EA,Wewa Magera,Unprotected spring,A6923,6.14,110,19.8,,0,0,0.03,0.06,20,0.03,0.192,0.21,0.27,6,11.8731384,38.0974058,2519.9
+72,EA,Wewa Magera,Unprotected spring,A6986,5.64,115,20.1,31.5,0,50,,,,,,,,,11.8707806,38.0901543,2489.1
+73,EA,Wewa Magera,Unprotected spring,A6906,6.56,71,20.2,26,0,32,,,,,,,,,11.868774,38.0970544,2536.1
+74,EA,Aringo,Protected dug well with hand pump,A6907,7.09,135,19,21.6,0,13,0.08,0,45,0.13,0.233,0.005,0.08,9,11.8576193,37.9188035,2475.2
+75,EA,Aringo,Protected dug well with hand pump,A6922,7.01,178,21.6,5.85,0,101,,,,,,,,,11.854998,37.9267671,2381.2
+76,EA,Aringo,Surface water,A6413,6.93,85,18.8,91,0,101,0.05,0.26,40,0.03,0,0.21,0.84,8,11.8553187,37.9281015,2331.8
+77,EA,Aringo,Protected dug well with hand pump,A6412,6.49,321,20.3,0.63,0,0,,,,,,,,,11.8509963,37.9264671,2338.6
+78,EA,Aringo,Protected spring,A6987,5.85,81,19.5,23.1,0,101,,,,,,,,,11.854978,37.9183657,2454.1
+79,EA,Aringo,Protected spring,A6411,6.43,178,19.9,3.21,0,14,,,,,,,,,11.8621807,37.9263295,2431.7
+80,EA,Aringo,Protected dug well with hand pump,A6920,7.09,353,21.5,1.57,0,0,,,,,,,,,11.8651442,37.9273091,2413.7
+81,EA,Aringo,Protected dug well with hand pump,A6995,7.1,293,22.8,15.4,0,101,,,,,,,,,11.86239,37.9229183,2417.6
+82,EA,Aringo,Protected dug well with hand pump,A6409,6.3,126,22.8,74.1,0,101,,,,,,,,,11.870853,37.9319406,2434.1
+83,EA,Aringo,Protected dug well with hand pump,A6994,5.87,149,22.7,1.25,0,78,,,,,,,,,11.8721896,37.9353036,2401.4
+84,EA,Gsasy,Unprotected spring,A6958,7,191,16.4,8.2,0,101,0.01,0,80,0.03,3.06,0.001,0.19,55,11.8015578,38.1453902,2790.2
+85,EA,Gsasy,Unprotected spring,A6966,6.85,194,17.5,0.79,0,101,,,,,,,,,11.7969696,38.1387167,2807.6
+86,EA,Gsasy,Public tap/standpipe,A6913,7.74,254,,0.06,0,0,,,,,,,,,11.7964227,38.1413877,2820.8
+87,EA,Gsasy,Public tap/standpipe,A6911,7.12,252,15.4,0.02,0,0,,,,,,,,,11.7995876,38.1414645,2813.4
+88,EA,Awezet,Protected dug well with hand pump,A6416,7.08,90,13.8,4.08,0,0,0.01,0,40,0.02,2.92,0.004,0.23,0,11.7667145,38.1155604,2892.5
+89,EA,Awezet,Protected dug well with hand pump,A6915,6.84,222,15.7,1.5,0,101,,,,,,,,,11.763853,38.120379,2955.2
+90,EA,Awezet,Protected dug well with hand pump,A6918,7.16,200,15.6,1.4,0,0,,,,,,,,,11.763562,38.1186495,2930.7
+91,EA,Awezet,Protected dug well with hand pump,A6917,6.48,111,15.1,5.62,0,60,0.02,0,40,0.01,2.68,0.005,0.43,0,11.7620007,38.1184838,2922.5
+92,EA,Awezet,Protected dug well with hand pump,A6364,7.06,206,16.1,9.63,0,77,,,,,,,,,11.7565637,38.1172419,2859.6
+93,EA,Awezet,Protected dug well with hand pump,A6354,6.68,125,16.2,11.39,0,16,,,,,,,,,11.7556035,38.1162315,2846
+94,EA,Awezet,Protected dug well with hand pump,A6993,7.41,317,17.3,36.4,3,101,,,,,,,,,11.7594459,38.1213095,2879.6
+95,EA,Awezet,Protected dug well with hand pump,A6408,7.92,229,16,2.67,0,3,,,,,,,,,11.7620818,38.1093646,2867.3
+96,EA,Awezet,Protected dug well with hand pump,A6959,7.59,159,15,78.2,0,101,,,,,,,,,11.764677,38.110959,2850
+97,EA,Awezet,Protected dug well with hand pump,A6992,7.21,242,16.8,0.47,0,2,,,,,,,,,11.7594513,38.121348,2875.7
+98,EA,Maynet,Protected dug well with hand pump,A6997,7.06,216,,0.86,0,0,,,,,,,,,11.7344538,38.0880725,2618.6
+99,EA,Maynet,Protected dug well with hand pump,A6344,6.24,143,16.3,2.35,0,0,0.06,0,65,0.02,4.38,0.017,0.37,3,11.7292456,38.0916138,2585.1
+100,EA,Maynet,Surface water,A6405,6.7,122,15.2,30.9,0,9,,,,,,,,,11.7364858,38.0859237,2602.5
+101,EA,Maynet,Unprotected spring,A6998,7.01,94,17,26,0,101,,,,,,,,,11.7367046,38.0883721,2622.9
+102,EA,Maynet,Unprotected spring,A6999,6.7,128,17,12.7,0,0,,,,,,,,,11.736984,38.0842539,2590.6
+103,EA,Maynet,Unprotected spring,A6406,6.38,132,18.1,9.5,0,32,,,,,,,,,11.7381344,38.0819541,2617.9
+104,EA,Maynet,Protected dug well with hand pump,A6374,7.33,333,16.8,6.66,0,101,,,,,,,,,11.7301428,38.092294,2617
+105,EA,Maynet,Protected spring,A6384,6.67,184,17.1,0.65,0,1,0.06,0.01,90,0.01,7.52,0.009,0.68,3,11.7299522,38.0952013,2623.9
+106,EA,Simina,Unprotected spring,A6346,6.35,151,18.7,6.92,0,83,0.01,0.09,55,0.01,2.4,0.007,0.39,2,11.7437515,38.022501,2371.3
+107,EA,Simina,Protected dug well with hand pump,A6459,7.67,253,17.8,0.89,0,101,,,,,,,,,11.7427625,38.0226811,2388.5
+108,EA,Simina,Unprotected spring,A6326,6.25,187,20.2,13.8,0,32,,,,,,,,,11.7481067,38.0208245,2295.2
+109,EA,Simina,Unprotected spring,A6461,7.24,184,19.9,0.38,0,9,,,,,,,,,11.7455789,38.0137501,2325.2
+110,EA,Sahirna,Protected dug well with hand pump,A6960,6.86,112,18.4,1.17,0,0,0,0.02,35,0,3.12,0.005,0.73,1,11.7873563,38.0986124,2855.5
+111,EA,Sahirna,Unprotected spring,A6962,6.09,97,17.8,15.9,0,40,0.03,0,35,0.02,3.34,0.007,0.38,0,11.7856606,38.0980261,2785.4
+112,EA,Sahirna,Unprotected spring,A6375,6.71,187,16.3,2.96,0,16,,,,,,,,,11.7856198,38.0996671,2832.3
+113,EA,Sahirna,Unprotected spring,A6965,6.6,102,16.5,1.3,0,74,,,,,,,,,11.7848089,38.1046287,2873
+114,EA,Sahirna,Protected dug well with hand pump,A6335,7.22,321,16.3,16.6,0,93,,,,,,,,,11.7881075,38.1051987,2856.4
+115,EA,Sahirna,Protected dug well with hand pump,A6964,6.56,87,17.6,18.7,0,2,,,,,,,,,11.7817699,38.1068824,2874.1
+116,EA,Sahirna,Protected dug well with hand pump,A6306,7.89,185,17.1,53.5,0,101,,,,,,,,,11.7895302,38.103035,2807.7
+117,EA,Sahirna,Protected dug well with hand pump,A6967,7.11,133,18.5,10.39,0,101,,,,,,,,,11.7788117,38.1050967,2868.4
+118,EA,Sahirna,Protected dug well with hand pump,A6462,7.76,242,17.5,5.11,0,37,,,,,,,,,11.7834764,38.1133497,2931.9
+119,EA,Sahirna,Protected dug well with hand pump,A6334,6.43,66,16.8,15.5,0,101,,,,,,,,,11.7812399,38.1129551,2900.9
+120,EA,Werkin,Unprotected spring,A6393,6,103,19.6,1.11,0,4,,,,,,,,,11.7921389,37.9687536,2275.7
+121,EA,Werkin,Unprotected spring,A6324,5.87,117,19.3,13.4,0,48,,,,,,,,,11.7952898,37.9641077,2236.9
+122,EA,Endirgie,Protected dug well with hand pump,A6457,7.14,208,18.1,10.71,0,58,,,,,,,,,11.8441899,38.1233111,2639.5
+123,EA,Endirgie,Unprotected spring,A6980,6.38,262,19.5,5.72,0,60,,,,,,,,,11.8420077,38.1122975,2686.7
+124,EA,Endirgie,Protected spring,A6431,6.07,98,17.2,30.6,0,82,0.27,0,40,0.03,4.22,0.008,0.38,59,11.8399213,38.1141787,2636.6
+125,EA,Endirgie,Protected dug well with hand pump,A6973,7.07,319,21.9,3.49,0,101,,,,,,,,,11.8380258,38.110424,2718.7
+126,EA,Endirgie,Protected dug well with hand pump,A6974,6.92,188,20.5,,0,101,,,,,,,,,11.8354472,38.1089409,2696.5
+127,EA,Endirgie,Protected dug well with hand pump,A6453,6.69,99,20.7,6.51,0,101,,,,,,,,,11.8353922,38.1119573,2680.1
+128,EA,Endirgie,Protected dug well with hand pump,A6975,6.48,110,18.8,0.92,0,0,,,,,,,,,11.837358,38.1208686,2729.5
+129,EA,Gena Mechawecha,Unprotected spring,A6448,6.11,109,21.9,12.3,0,68,0.01,0.04,55,0.01,2.4,0.005,0.68,2,11.7858845,37.9708147,2149.2
+130,EA,Gena Mechawecha,Unprotected spring,A6417,5.95,130,21.1,3.73,0,101,,,,,,,,,11.7868337,37.9748024,2171.9
+131,EA,Gena Mechawecha,Unprotected spring,A6979,6.04,194,21.6,4.81,0,101,,,,,,,,,11.7842424,37.9720008,2115.7
+132,EA,Gena Mechawecha,Unprotected spring,A6430,6.94,175,21.1,7.64,0,54,,,,,,,,,11.7821763,37.9736613,2104.5
+133,EA,Gena Mechawecha,Surface water,A6454,6.7,96,21.4,41.1,0,53,0.01,0.11,35,0,3.3,0.009,0.57,1,11.7839588,37.9642941,2096.3
+134,EA,Gena Mechawecha,Protected spring,A6425,7.07,149,23.9,3.68,0,82,,,,,,,,,11.7741242,37.976149,2056.6
+135,EA,Gena Mechawecha,Protected dug well with hand pump,A6428,7.52,173,23.7,90.2,0,101,,,,,,,,,11.7785083,37.9727112,2078.2
+136,EA,Debretabor Eyesus,Unprotected spring,A6978,7.3,107,19.8,45.9,0,101,,,,,,,,,11.8258913,38.0129752,2498.8
+137,EA,Debretabor Eyesus,Unprotected spring,A6429,6.86,65,19.5,13,0,101,0.02,0,10,0.01,2.54,0.006,2,2,11.8272835,38.0053197,2536.2
+138,EA,Debretabor Eyesus,Protected spring,A6427,6.47,183,18.9,0.06,0,1,,,,,,,,,11.8292185,38.0125453,2550.6
+139,EA,Debretabor Eyesus,Protected spring,A6449,5.58,77,19.4,72.6,0,78,,,,,,,,,11.8302089,38.0144931,2505.5
+140,EA,Debretabor Eyesus,Protected spring,A6419,5.69,58,19,21.1,0,101,0.04,0,20,0.01,4.3,0.002,0.13,2,11.8326314,38.0138758,2554
+141,EA,Debretabor Eyesus,Unprotected spring,A6426,5.62,84,18.5,41.1,0,101,,,,,,,,,11.8357418,38.0166851,2540.3
+142,EA,Weybla Selameko,Protected spring,A6842,6.42,163,18.8,29.9,0,101,,,,,,,,,11.8724614,38.0436755,2490.7
+143,EA,Weybla Selameko,Unprotected spring,A6977,5.82,55,19.5,8,0,21,0.04,0,20,0.01,2.96,0.002,0.1,2,11.8848134,38.0498512,2466.4
+144,EA,Weybla Selameko,Protected dug well with hand pump,A6840,7.21,426,16.7,4.83,0,45,,,,,,,,,11.8765543,38.0413625,2540.9
+145,EA,Weybla Selameko,Protected spring,A6450,6.51,123,18.3,39,0,101,,,,,,,,,11.8830493,38.044815,2483.3
+146,EA,Weybla Selameko,Protected dug well with hand pump,A6839,6.59,153,16.2,29.6,0,101,,,,,,,,,11.8768657,38.0391658,2521.8
+147,EA,Koley,Protected dug well with hand pump,A6848,6.22,178,20.2,30,0,101,0.03,0.09,60,0.02,5.34,0.005,0.54,2,11.9338579,37.9852575,2242.1
+148,EA,Koley,Unprotected spring,A6860,7.02,152,19.4,17.8,0,101,,,,,,,,,11.9427476,37.9889456,2236
+149,EA,Koley,Unprotected spring,A6847,5.91,237,19.9,7.55,0,101,,,,,,,,,11.9340989,37.9842827,2250.1
+150,EA,Koley,Unprotected spring,A6854,6.12,142,21.1,23.3,0,101,,,,,,,,,11.936137,37.9892483,2223.4
+151,EA,Koley,Unprotected spring,A6451,5.93,177,20,51.9,0,101,0.03,0.37,60,0.04,3.06,0.011,1.15,5,11.9303462,37.9815702,2292
+152,EA,Adis Betekiristian,Protected spring,A6851,6.17,81,18.4,6.46,0,69,,,,,,,,,11.7489836,37.9851727,2354.3
+153,EA,Adis Betekiristian,Unprotected spring,A6845,6,90,19.1,26.8,0,97,0.01,0,30,0.01,3.8,0.005,0.37,2,11.7453949,37.9975839,2362.9
+154,EA,Adis Betekiristian,Unprotected spring,A6421,6,96,19.3,74.4,0,101,,,,,,,,,11.7485446,37.9978506,2318.3
+155,EA,Medeb Gubda,Unprotected spring,A6866,5.63,104,21.2,47.2,0,101,,,,,,,,,11.9690136,38.0336594,2140.9
+156,EA,Medeb Gubda,Protected dug well with hand pump,A6887,6.16,237,18.5,19.5,0,101,,,,,,,,,11.9775952,38.0264697,2131.8
+157,EA,Medeb Gubda,Protected dug well with hand pump,A6888,6.46,277,19.9,18.1,0,74,,,,,,,,,11.9775103,38.0279176,2140.3
+158,EA,Medeb Gubda,Unprotected spring,A6855,6.53,281,20.3,30.2,0,96,0.05,0.22,95,0.07,NA,0.017,0.43,4,11.9819713,38.0296158,1998.5
+159,EA,Dengors,Unprotected spring,A6838,6.49,191,20.2,49.4,0,101,,,,,,,,,11.9452739,37.9646122,2208.5
+160,EA,Dengors,Protected dug well with hand pump,A6443,6.92,318,20,7.06,0,48,,,,,,,,,11.9435008,37.9669173,2177.3
+161,EA,Dengors,Unprotected spring,A6841,6.15,166,21.3,29.6,0,75,,,,,,,,,11.9533813,37.959796,2249
+162,EA,Dengors,Unprotected spring,A6852,5.98,121,21.5,73.8,0,58,,,,,,,,,11.9549038,37.9590773,2271.3
+163,EA,Ayvaniva,Protected dug well with hand pump,A6868,6.48,239,21.6,46.3,0,101,0.07,0.11,95,0.04,1.52,0.016,0.44,2,11.9789889,37.9635147,2140.7
+164,EA,Dengors,Protected dug well with hand pump,A6833,6.23,268,21.8,21.8,0,101,,,,,,,,,11.9576513,37.9531694,2255.7
+165,EA,Dengors,Unprotected spring,A6831,6.28,269,20.9,2.47,0,20,,,,,,,,,11.9577215,37.9510479,2243.6
+166,EA,Ayvaniva,Protected dug well with hand pump,A6825,6.82,341,21.1,4.3,0,101,,,,,,,,,11.9796477,37.9672472,2149.5
+167,EA,Ayvaniva,Unprotected spring,A6826,6.11,133,21.4,23.9,0,101,0.07,0.02,45,0.01,3.48,0.09,0.22,1,11.9828206,37.9704382,2160.3
+168,EA,Dengors,Protected dug well with hand pump,A6836,6.55,166,21.3,68.3,0,101,,,,,,,,,11.9539097,37.9523441,2239.2
+169,EA,Dengors,Unprotected spring,A6829,6.09,163,22.9,19.3,0,69,,,,,,,,,11.9454741,37.9558762,2253.7
+170,EA,Dengors,Protected spring,A6444,6.09,189,23.5,20.5,0,68,,,,,,,,,11.9478939,37.9606529,2234.3
+171,EA,Embayeko,Unprotected spring,A6827,5.62,105,23,7.38,0,28,0.03,0.08,30,0,4.72,0.002,0.52,2,11.8083544,37.888624,1984.9
+172,EA,Embayeko,Unprotected spring,A6828,5.78,115,23.1,12.16,0,101,,,,,,,,,11.8086267,37.880391,1990.1
+173,EA,Embayeko,Unprotected spring,A6824,5.57,86,23.2,20.2,0,54,,,,,,,,,11.8101688,37.8746011,1977.2
+174,EA,Embayeko,Unprotected spring,A6821,5.81,183,22,0.59,0,7,,,,,,,,,11.8136559,37.875573,1975.4
+175,EA,Farta Kuskuam,Protected dug well with hand pump,A6882,6.13,197,18,4.94,0,101,,,,,,,,,11.8611312,38.1187395,2680.2
+176,EA,Farta Kuskuam,Protected dug well with hand pump,A6884,7.23,193,17.3,39.3,0,101,,,,,,,,,11.8556328,38.1200255,2688.8
+177,EA,Farta Kuskuam,Protected dug well with hand pump,A6832,6.85,210,16.2,0.59,0,57,,,,,,,,,11.8579334,38.1214878,2669.8
+178,EA,Farta Kuskuam,Protected dug well with hand pump,A6834,6.71,161,16.4,5,0,101,,,,,,,,,11.858828,38.1219252,2679.9
+179,EA,Farta Kuskuam,Protected dug well with hand pump,A6835,7.34,230,16.7,11.55,0,101,,,,,,,,,11.8606457,38.1224304,2679.2
+180,EA,Farta Kuskuam,Protected dug well with hand pump,A6837,6.4,123,17.3,,0,101,,,,,,,,,11.8576671,38.1205365,2683.8
+181,EA,Kanat,Protected dug well with hand pump,A6445,7.06,201,14.2,1.52,0,4,,,,,,,,,11.8026248,38.0279808,2578.3
+182,EA,Kanat,Protected dug well with hand pump,A6815,6.56,190,15,8.83,0,57,0.21,0,75,0.04,4.98,0.008,0.1,3,11.800063,38.0239605,2567.2
+183,EA,Kanat,Unprotected spring,A6446,6.48,111,17,11.14,0,101,,,,,,,,,11.8057534,38.0278598,2560.5
+184,EA,Kanat,Protected dug well with hand pump,A6875,6.38,142,14.3,14.3,0,13,,,,,,,,,11.8063489,38.0292205,2508.7
+185,EA,Kanat,Unprotected spring,A6816,6.11,63,17.8,19.2,0,68,0.01,0,25,0.01,5.64,0.003,0.1,3,11.7990666,38.0258899,2517.9
+186,EA,Kanat,Protected dug well with hand pump,A6447,6.25,142,15.4,10.38,0,101,,,,,,,,,11.8046059,38.0355155,2591.4
+187,EA,Kanat,Protected dug well with hand pump,A6820,5.86,96,16.3,5.75,0,101,,,,,,,,,11.8049893,38.0334835,2580.9
+188,EA,Girebe,Protected dug well with hand pump,A6883,6.56,209,17.1,4.01,0,59,0,0,70,0.02,4.12,0.001,0.1,1,11.8264999,37.9331045,2391.9
+189,EA,Girebe,Protected dug well with hand pump,A6499,6.66,206,17.8,9.91,0,7,,,,,,,,,11.8313186,37.9338113,2371.4
+190,EA,Girebe,Protected dug well with hand pump,A6870,6.67,246,19.8,24.01,0,101,,,,,,,,,11.8253221,37.9276663,2255.5
+191,EA,Girebe,Protected dug well with hand pump,A6809,6.33,229,18.2,15.1,0,101,,,,,,,,,11.8345998,37.9325235,2373.6
+192,EA,Girebe,Protected dug well with hand pump,A6869,6.78,206,18.1,43.3,0,54,,,,,,,,,11.8286408,37.9282572,2252.4
+193,EA,Girebe,Unprotected spring,A6808,6.2,133,18.6,9.09,0,101,0.01,0,50,0,3.16,0.002,0.15,2,11.8380634,37.9350547,2334.2
+194,EA,Girebe,Unprotected spring,A6876,5.81,81,19.7,32.1,0,34,,,,,,,,,11.8305031,37.9292065,2237.3
+195,EA,Girebe,Unprotected spring,A6807,6.05,116,19.2,48.4,0,101,,,,,,,,,11.8516491,37.9370428,2354.3
